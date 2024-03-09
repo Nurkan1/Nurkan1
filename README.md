@@ -20,7 +20,7 @@ Puedes encontrarme en LinkedIn o enviarme un correo electrónico directamente a 
 
 ## 😄 Pronombres
 
-Prefiero que me llamen Nurcan, pero estoy cómodo con cualquier pronombre respetuoso.
+Prefiero que me llamen Nurcan, pero estoy cómodo con Nurkan.
 
 ## ⚡ Dato curioso
 
