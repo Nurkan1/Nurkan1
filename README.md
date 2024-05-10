@@ -1,31 +1,23 @@
-# 👋 Hola, soy @Nurkan1
+👋 Hi, I'm @Nurkan1
+Welcome to my GitHub profile, a space where I combine my passion for innovation with my love for technology and artificial intelligence.
 
-Bienvenido a mi perfil de GitHub, un espacio donde combino mi pasión por la innovación con mi amor por la tecnología y la inteligencia artificial.
+👀 I'm interested in
+Technology, AI, and developing innovative products. I love exploring new ideas and turning them into reality. I am always eager to learn and apply emerging technologies to solve complex problems.
 
-## 👀 Estoy interesado en
+🌱 I’m currently learning
+English and enhancing my project management skills. Additionally, I'm exploring the latest trends in artificial intelligence and how they can be applied to improve our work and living environments.
 
-La tecnología, la IA, y el desarrollo de productos innovadores. Me encanta explorar nuevas ideas y convertirlas en realidad. Siempre estoy en busca de aprender y aplicar tecnologías emergentes para resolver problemas complejos.
+💞️ I’m looking to collaborate on
+Projects related to AI, technological product development, and any initiative that aims to make a positive difference through innovation. I am particularly interested in working with teams that value creativity and experimentation.
 
-## 🌱 Actualmente estoy aprendiendo
+📫 How to reach me
+You can find me on LinkedIn or send me an email directly through the links in my profile. I'm open to discussing ideas, projects, or just connecting with people who share my interests.
 
-Inglés y perfeccionando mis habilidades en gestión de proyectos. Además, estoy explorando las últimas tendencias en inteligencia artificial y cómo pueden aplicarse para mejorar nuestros entornos de trabajo y vida.
+😄 Pronouns
+I prefer to be called Nurcan, but I'm comfortable with Nurkan.
 
-## 💞️ Busco colaborar en
-
-Proyectos relacionados con la IA, el desarrollo de productos tecnológicos y cualquier iniciativa que busque hacer una diferencia positiva a través de la innovación. Estoy particularmente interesado en trabajar con equipos que valoran la creatividad y la experimentación.
-
-## 📫 Cómo contactarme
-
-Puedes encontrarme en LinkedIn o enviarme un correo electrónico directamente a través de los enlaces en mi perfil. Estoy abierto a discutir ideas, proyectos o simplemente conectar con personas que comparten mis intereses.
-
-## 😄 Pronombres
-
-Prefiero que me llamen Nurcan, pero estoy cómodo con Nurkan.
-
-## ⚡ Dato curioso
-
-Soy un inventor con una mente que no descansa, siempre pensando en la próxima gran idea. Mi creatividad a veces me lleva por caminos inesperados, pero es ahí donde encuentro mis mejores inspiraciones.
-
+⚡ Fun fact
+I am an inventor with a restless mind, always thinking about the next big idea. My creativity often leads me down unexpected paths, but that's where I find my best inspirations.
 <!---
 Nurkan1/Nurkan1 es un repositorio ✨ especial ✨ porque su `README.md` (este archivo) aparece en mi perfil de GitHub.
 Puedes hacer clic en el enlace de vista previa para echar un vistazo a tus cambios.
